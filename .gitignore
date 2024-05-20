@@ -136,4 +136,4 @@ media/
 static/
 
 # Javascript files 
-.jsconfig.json
+.jsconfig.json/
